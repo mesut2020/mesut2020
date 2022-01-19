@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://github.com/mesut2020/mesut2020/blob/main/github.jpg?raw=true">
 
 <h1 align="center">Hi, I'm Mesut Dogan</h1>
