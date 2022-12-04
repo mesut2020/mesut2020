@@ -4,7 +4,7 @@
 
 <h3 align="center">SDET - Software Development Engineer in Test | ISTQB certified tester</h3>
 
-<p align="justfy">I'm a father, son, husband, volunteer, software tester. I have been working in the IT world since 2002. Graduated from Marmara University, Computer Science and Electronics.My favorite programming language is Java and my favorite automation test framework is Cucumber BDD.</p>
+<p align="justfy">I'm a father, son, husband, volunteer, software tester. I have been working in the IT world since 2002. Graduated from Marmara University, Computer Science and Electronics. My favorite programming language is Java and my favorite automation test framework is Cucumber BDD.</p>
 
 <ul>
   <li>🔭I worked on different projects: <b>Mersys Campus(School Management System), E-Commerce platform and Bank swift platform</b> </li>
