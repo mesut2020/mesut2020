@@ -7,7 +7,7 @@
 <p align="justfy">I'm a father, son, husband, volunteer, software tester. I have been working in the IT world since 2002. Graduated from Marmara University, Computer Science and Electronics.My favorite programming language is Java and my favorite automation test framework is Cucumber BDD.</p>
 
 <ul>
-  <li>🔭I worked on different projects: <b>Basqar School Management System, E-Commerce platform and Bank swift platform</b> </li>
+  <li>🔭I worked on different projects: <b>Mersys Campus(School Management System), E-Commerce platform and Bank swift platform</b> </li>
   <li>💬Ask me about <b>Java, Selenium WebDriver, JUnit, TestNG, Cucumber, Gherkin, ApachiPOI, Postman, RestAsured, SQL, JDBC, Jenkins</b></li>
   <li>📫 How to reach me: medogan@gmail.com</li>
 </ul>
